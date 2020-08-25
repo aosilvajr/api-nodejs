@@ -13,7 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Handlebars](https://handlebarsjs.com/)
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [Multer](https://github.com/expressjs/multer)
-- [VS Code][vc] com [EditorConfig][vceditconfig] e [ESLint][vceslint]
+- [VS Code](https://code.visualstudio.com/) com [EditorConfig](https://editorconfig.org/ e [ESLint](https://eslint.org/)
 
 # Funcionalidades
 - CRUD de tarefas
